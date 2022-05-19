@@ -1,0 +1,25 @@
+.dinner {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    text-align: center;
+    color: wheat;
+    background-color: black;
+}
+
+ul {
+    list-style: none;
+}
+
+a:unvisited {
+    color: wheat;
+}
+
+a:visited {
+    color: orangered;
+}
