@@ -1,4 +1,4 @@
-.dinner {
+.image {
     height: auto;
     width: 400px;
     display: block;
@@ -10,6 +10,7 @@ body {
     text-align: center;
     color: wheat;
     background-color: black;
+    font: "Times New Roman", "Georgia", sans-serif;
 }
 
 ul {
